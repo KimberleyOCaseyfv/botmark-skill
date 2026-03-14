@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/botmark-logo.png" alt="BotMark" width="200" />
+  <img src="./assets/botmark-logo.png" alt="BotMark" width="80" />
 </p>
 
 <h1 align="center">BotMark Skill</h1>

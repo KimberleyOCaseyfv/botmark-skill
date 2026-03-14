@@ -32,7 +32,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero-radar-chart.png" alt="BotMark 5Q Radar Chart" width="700" />
+  <img src="./assets/intro.png" alt="BotMark introduction" width="800" />
 </p>
 
 ## Why BotMark?
